@@ -1,11 +1,4 @@
-### Hi there 👋
-
-
-<div style="text-align: center">
-  <img width="100%" src="./assets/forest.png" />
-</div>
-
-<h1 align="center">Hello - Hallo - Glad to see you here!</h1>
+<h1 align="center">Hi there 👋 - Glad to see you here!</h1>
 
 <p align="center">
   I'm Julian, a 22 year old TypeScript developer from Germany 🇩🇪
@@ -20,20 +13,7 @@
 </p>
 
 <br />
-<!--<h2 align="center">Recent Activities</h2>
 
-<br />
-<div align="center">
-  <p float="left">
-    <img
-      class="img"
-      align="center"
-      src=""
-    />
-    <img class="img" align="center"
-    src=https://github-readme-stats.vercel.app/api?username=Cahllagerfeld />
-  </p>
-</div>-->
 <div align="center">
   <img
     width="200"
@@ -43,6 +23,7 @@
   />
 </div>
 
+<div align="center>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -53,4 +34,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+</divorce >
