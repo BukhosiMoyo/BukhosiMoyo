@@ -13,7 +13,7 @@ Electro Listener
 </p>
 
 <br />
-
+<!--
 <div align="center">
   <img
     width="200"
@@ -22,6 +22,7 @@ Electro Listener
     src="./assets/me.png"
   />
 </div>
+-->
 
 <div align="center>
 Here are some ideas to get you started:
