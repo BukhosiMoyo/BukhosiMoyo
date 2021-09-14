@@ -1,15 +1,15 @@
 <h1 align="center">Hi there 👋 - Glad to see you here!</h1>
 
 <p align="center">
-  I'm Julian, a 22 year old TypeScript developer from Germany 🇩🇪
+  I'm Bukhosi, a 25 year old aspiring Fullstack developer from South Africa
 </p>
 <p align="center">
-  👀 Into Fullstack-Development & DevOps  - ♥️ In love with
-  TypeScript
+  👀 Into Fullstack-Development - ♥️ In love with
+  Django
 </p>
 <p align="center">
-  🚀 Dealing with Azure - 🤓 Feel free to ask, I am glad if I can help - 🌴
-  Hip-Hop Listener
+  🚀 Dealing with React and NextJS - 🤓 Feel free to ask, I am glad if I can help - 🌴
+Electro Listener
 </p>
 
 <br />
